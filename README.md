@@ -3,3 +3,6 @@
 This is Lotto Generate
 - aa
 - bb
+
+    * 번호의 범위 : 1~45
+* 중복번호 제거코드 포함
